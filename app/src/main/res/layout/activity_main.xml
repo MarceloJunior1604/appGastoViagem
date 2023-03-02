@@ -67,7 +67,7 @@
         android:gravity="center"
         android:text="@string/valor_total"
         android:textColor="#040087"
-        android:textSize="30dp" />
+        android:textSize="38dp" />
 
     <Button
         android:id="@+id/button_calculate"
